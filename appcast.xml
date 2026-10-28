@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MiniTool Updates</title>
+    <link>https://github.com/cooluid/MiniTool-updates</link>
+    <description>Official MiniTool updates. No releases published yet.</description>
+    <language>zh-cn</language>
+  </channel>
+</rss>
