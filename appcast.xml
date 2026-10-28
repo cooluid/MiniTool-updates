@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>MiniTool Updates</title>
-    <link>https://github.com/cooluid/MiniTool-updates</link>
-    <description>Official MiniTool updates. No releases published yet.</description>
-    <language>zh-cn</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MiniTool</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 16:42:44 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cooluid/MiniTool-updates/releases/download/v0.1.0/MiniTool-0.1.0.dmg" length="1613133" type="application/octet-stream" sparkle:edSignature="lUChJVhDvI/cYvuC5iUWbQUm71qEqZNGSl+xzjLJaJLyMqZrpWi7SK6KLQiziO3K0WhhLsdEBhRTTREpH6ZVCA=="/>
+        </item>
+    </channel>
 </rss>
