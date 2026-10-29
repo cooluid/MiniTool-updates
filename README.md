@@ -40,19 +40,19 @@
 
 按窗口找内容，包含最小化和其他桌面的窗口；是否接管系统 Cmd+Tab 可自行选择。
 
-<p align="center"><img src="docs/images/window-switcher.jpg" width="560" alt="MiniTool 窗口切换设置：最近使用排序、缩略图、最小化窗口和其他桌面窗口选项"></p>
+<p align="center"><img src="docs/images/window-switcher.png" width="560" alt="MiniTool 窗口切换设置：最近使用排序、缩略图、最小化窗口和其他桌面窗口选项"></p>
 
 ### 鼠标手势
 
 内置常用方向组合，动作可以修改；需要时再添加新手势或按应用设置不同动作。
 
-<p align="center"><img src="docs/images/mouse-gestures.jpg" width="560" alt="MiniTool 鼠标手势设置：轨迹显示、动作提示和方向组合映射"></p>
+<p align="center"><img src="docs/images/mouse-gestures.png" width="560" alt="MiniTool 鼠标手势设置：轨迹显示、动作提示和方向组合映射"></p>
 
-### AI 翻译
+### 鼠标增强
 
-默认快捷键为 `⌥D` 划词翻译、`⌥S` 截图翻译、`⌥A` 输入翻译，均可在设置中修改。
+按自己的习惯调整滚轮方向和平滑滚动，使用 Shift 横向滚动，并为第三方鼠标提供侧键前进 / 后退。
 
-<p align="center"><img src="docs/images/translation.jpg" width="560" alt="MiniTool 翻译设置：三个翻译快捷键、截图原位翻译 Pro 选项与 AI 服务配置"></p>
+<p align="center"><img src="docs/images/mouse-enhance.png" width="560" alt="MiniTool 鼠标增强设置：侧键前进后退、滚轮方向、平滑滚动与 Shift 横向滚动"></p>
 
 ## 下载与安装
 
@@ -82,6 +82,8 @@
 **Pro 价格不包含第三方 AI 服务调用额度。** 翻译需要自行配置服务，也可使用本地 Ollama。
 
 ## AI 服务与数据
+
+默认快捷键为 `⌥D` 划词翻译、`⌥S` 截图翻译、`⌥A` 输入翻译，均可在设置中修改。
 
 - 支持 DeepSeek、OpenAI、通义千问、Kimi、智谱等兼容 OpenAI `/chat/completions` 接口的服务，以及本地 Ollama。
 - API Key 按服务商分别保存在 macOS **钥匙串**中。
