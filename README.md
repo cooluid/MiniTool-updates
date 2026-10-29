@@ -34,12 +34,9 @@
 
 MiniTool 只在菜单栏显示图标。第一次使用时，按提示在「系统设置 → 隐私与安全性」里打开辅助功能权限；窗口缩略图和截图翻译还需要屏幕录制权限。新版本可以在「设置 → 关于」里检查更新。
 
-## 免费和 Pro
-
-大部分功能免费。Pro 28 元，买一次一直能用，多了截图译文原位显示、自定义新手势、按应用设置手势这三项，在应用的「设置 → Pro」里购买。
 
 ## 反馈
 
-问题和建议请提 [Issue](https://github.com/cooluid/MiniTool-updates/issues/new)，购买相关的问题发邮件到 400822@163.com。
+问题和建议请提 [Issue](https://github.com/cooluid/MiniTool-updates/issues/new)，也可以发邮件到 400822@163.com。
 
 MIT 许可证，见 [LICENSE](LICENSE)。
