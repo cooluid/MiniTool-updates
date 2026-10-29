@@ -3,12 +3,12 @@
     <channel>
         <title>MiniTool</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Thu, 29 Oct 2026 20:54:07 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <title>0.1.3</title>
+            <pubDate>Thu, 29 Oct 2026 22:01:28 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/cooluid/MiniTool-updates/releases/download/v0.1.2/MiniTool-0.1.2.dmg" length="4433146" type="application/octet-stream" sparkle:edSignature="TRGXXcEX5DTuLgvZHcwXZvYtuhZDfJj0O3T/bOlZU/uoEcMerhBzQMmPBagwAUvA68toMDOsgGZOqc0HuQ/OCQ=="/>
+            <enclosure url="https://github.com/cooluid/MiniTool-updates/releases/download/v0.1.3/MiniTool-0.1.3.dmg" length="4460650" type="application/octet-stream" sparkle:edSignature="cMwargIYVaslbwp7TekDYBfK3+qkgIdF2yvsSNISwuRLWhTP52mru2IQJBTgURSyfBSL2oTw284RyL1VHxbtCQ=="/>
         </item>
     </channel>
 </rss>
